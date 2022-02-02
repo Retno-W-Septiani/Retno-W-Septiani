@@ -6,7 +6,7 @@
     <img width="150%" src="https://c.tenor.com/D6P30zTazsUAAAAC/come-on-in-come-in.gif">
 </p>
 
-
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 #### I am Wulan.
 #### Sounds familiar? yeah, I am kinda proud that my name sounds similar to Mulan. At least it helps in teaching people how to pronounce it easier.
