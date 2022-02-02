@@ -8,14 +8,13 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rrwulanss/)
 [![Tiktok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rrwulanss)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](< a href="mailto:retnoseptiani@uri.edu">)
 <a href="mailto:retnoseptiani@uri.edu?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 #### I am Wulan.
-#### Sounds familiar? yeah, I am kinda proud that my name sounds similar to Mulan. At least it helps in teaching people how to pronounce it easier.
+Sounds familiar? yeah, I am kinda proud that my name sounds similar to Mulan. At least it helps in teaching people how to pronounce it easier.
 
-#### I am an Environmental Engineer, currently doing my PhD program at the University of Rhode Island. I am interested in global hydrologycal modeling, remote sensing, GIS, global carbon cycle and inland water quality.
-
-#### I have always been interested in coding, but I guess I wasn't taking it serious enough and didn't make time for it. Well, now I am learning it in NRS-528. It gets me so excited.
+I am an Environmental Engineer, currently doing my PhD program at the University of Rhode Island. I am interested in global hydrologycal modeling, remote sensing, GIS, global carbon cycle and inland water quality.
+I have always been interested in coding, but I guess I wasn't taking it serious enough and didn't make time for it. Well, now I am learning it in NRS-528. It gets me so excited.
 
 
 <!--
