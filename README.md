@@ -6,8 +6,9 @@
     <img width="150%" src="https://c.tenor.com/D6P30zTazsUAAAAC/come-on-in-come-in.gif">
 </p>
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rrwulanss/)
+[![Tiktok Badge](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@rrwulanss)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=retnoseptiani@uri.edu)
 #### I am Wulan.
 #### Sounds familiar? yeah, I am kinda proud that my name sounds similar to Mulan. At least it helps in teaching people how to pronounce it easier.
 
