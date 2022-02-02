@@ -14,7 +14,7 @@
 ### **I am Wulan**
 Sounds familiar? yeah, I am kinda proud that my name sounds similar to Mulan. At least it helps in teaching people how to pronounce it easier.
 
-<img align="right" height="300" width="300" alt="" src="https://media3.giphy.com/media/qXu6nYNrwqU3A2Ch0L/giphy.gif?cid=790b76116b7c1115d6ad9043219b2eb801cedad790aca7f4&rid=giphy.gif&ct=g" />
+<img align="right" height="290" width="300" alt="" src="https://media3.giphy.com/media/qXu6nYNrwqU3A2Ch0L/giphy.gif?cid=790b76116b7c1115d6ad9043219b2eb801cedad790aca7f4&rid=giphy.gif&ct=g" />
 
 
 - 🌱 I’m an Environmental Engineer
