@@ -1,4 +1,5 @@
-### Hi there 👋
+# HAI!!!
+##### <span style="color:blue"> it's the way you say 'hi' in Indonesian
 
 <!--
 **Retno-W-Septiani/Retno-W-Septiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
