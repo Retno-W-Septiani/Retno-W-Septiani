@@ -13,7 +13,7 @@
 #### I am Wulan.
 Sounds familiar? yeah, I am kinda proud that my name sounds similar to Mulan. At least it helps in teaching people how to pronounce it easier.
 
-<img align="right" height="200" width="350" alt="" src="https://github.com/Retno-W-Septiani/Retno-W-Septiani/blob/main/WhatsApp%20Video%202022-02-02%20at%2011.43.38%20AM.mp4" />
+<img align="right" height="250" width="300" alt="" src="https://media3.giphy.com/media/qXu6nYNrwqU3A2Ch0L/giphy.gif?cid=790b76116b7c1115d6ad9043219b2eb801cedad790aca7f4&rid=giphy.gif&ct=g" />
 
 I am an Environmental Engineer, currently doing my PhD program at the University of Rhode Island. I am interested in global hydrologycal modeling, remote sensing, GIS, global carbon cycle and inland water quality.
 I have always been interested in coding, but I guess I wasn't taking it serious enough and didn't make time for it. Well, now I am learning it in NRS-528. It gets me so excited.
