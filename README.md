@@ -28,6 +28,8 @@ Sounds familiar? yeah, I am kinda proud that my name sounds similar to Mulan. At
  🏋️‍♀️ `Workout` | ⏯️ `Multimedia` 
 🖥️ `Coding` | 🥘 `Cooking` 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Retno-W-Septiani&layout=compact)](https://github.com/Retno-W-Septiani/github-readme-stats)
+
 ### Here are some of the output from my Coding Challenge (NRS 528):
 
 <p align="center" width="100%">
