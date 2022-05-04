@@ -28,3 +28,12 @@ Sounds familiar? yeah, I am kinda proud that my name sounds similar to Mulan. At
  🏋️‍♀️ `Workout` | ⏯️ `Multimedia` 
 🖥️ `Coding` | 🥘 `Cooking` 
 
+### Here are some of the output from my Coding Challenge (NRS 528):
+
+<p align="center" width="100%">
+    <img width="150%" src="https://github.com/Retno-W-Septiani/coding-challenges/blob/main/CC10/NDVI%20Result.png">
+</p>
+
+<p align="center" width="100%">
+    <img width="150%" src="https://github.com/Retno-W-Septiani/coding-challenges/blob/main/Toolbox/Result.jpg">
+</p>
